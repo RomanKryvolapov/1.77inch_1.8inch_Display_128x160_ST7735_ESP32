@@ -18,4 +18,11 @@
 <p>1->8 = LED -> CS -> RS(DC,A0) -> RES -> SDA -> SCK -> VCC -> GND</p>
 <p>red and black (touch) display DC = A0</p>
 
-![1!](https://github.com/RomanKryvolapov/2.4_2.8_LCD_320x240_ILI9341_ESP32/blob/master/Display.jpg "1")
+![1!](https://github.com/RomanKryvolapov/1.77_1.8_LCD_128x160_ST7735_ESP32/blob/master/Display1.jpg "1")
+
+![2!](https://github.com/RomanKryvolapov/1.77_1.8_LCD_128x160_ST7735_ESP32/blob/master/Display2.jpg "2")
+
+![3!](https://github.com/RomanKryvolapov/1.77_1.8_LCD_128x160_ST7735_ESP32/blob/master/Display3.jpg "3")
+
+![4!](https://github.com/RomanKryvolapov/1.77_1.8_LCD_128x160_ST7735_ESP32/blob/master/ESP32-Pinout.png "4")
+
